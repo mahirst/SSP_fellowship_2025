@@ -150,25 +150,13 @@ R script to run linear mixed models and output figures (forest plots), which wer
 
 #### 'analysis' folder output
 
-**Fixed_effects_ALL.jpg**
-
-Forest plot showing all effects from the revenue over time model
-
 **sig_fixed_effects.jpeg**
 
 Forest plot showing only the significant effects from the revenue over time model
 
-**sig_fixed_effects.jpg**
-
-Same as **sig_fixed_effects.jpeg** but more condensed for presentation purposes
-
 **sig_revenue_predictors.jpeg**
 
 Forest plot of significant predictors for cross-year (2012 vs 2022) revenue analysis
-
-**sig_revenue_predictors.jpg**
-
-Same as **sig_revenue_predictors.jpeg** but more condensed for presentation purposes
 
 ## Methods
 
