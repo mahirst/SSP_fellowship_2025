@@ -62,6 +62,10 @@ This was created because 9 of the college names did not match those used by IPED
 ##### missing\_colleges\_with\_verified\_metadata.csv
 Generated all the info needed to run the missing.py script for the unmatched colleges.
 
+##### ef2022a_rv.csv and ef2012a_rv.csv 
+
+IPEDS input files for figuring out the top 3 reported demographics per institution, plus the reported student population size. 
+
 #### 'Revenue' folder scripts
 
 ##### extract\_ipeds\_revenue.py
@@ -75,6 +79,10 @@ Some college names did not match those in IPEDS, so this was just made for the s
 ##### summarize\_revenue.py
 
 This script summarizes all the total revenue data from the IPEDS financial datasets into a clear, concise format
+
+##### pop_demogs.py
+
+This script uses the files "ef2012a_rv.csv" and "ef2022a_rv.csv" to generate the files called "institution_top_demographics_2012.csv" and "institution_top_demographics_2022.csv". 
 
 #### 'Revenue' folder output
 
@@ -100,6 +108,14 @@ This file is the final file that I compiled to run statistical analyses.
 * **YYYY_revenue:** Reported total revenue for that fiscal year
 
 * Note: The University of North Georgia did not exist in 2012, so that data is missing from this file.
+
+##### institution_top_demographics_2012.csv
+
+The top 3 demographics reported by institutions in 2012, as well as the total number of students reported.
+
+##### institution_top_demographics_2022.csv 
+
+The top 3 demographics reported by institutions in 2022, as well as the total number of students reported.
 
 ### 'map_figure' folder
 
@@ -186,11 +202,22 @@ Once you have the IPEDS directory dataset, the other data files, and your list o
 
 ##### Availability of a publishing program or press
 
-These data were generated manually by my fellowship partner by doing simple Google searches for each institution. 1 means a program or press exists at that institution currently; 0 means they do not.
+These data are subjective (i.e., what defines a publishing program or press?) and were generated manually by my fellowship partner by doing simple Google searches for each institution. 1 means a program or press exists at that institution currently; 0 means they do not.
 
-##### 
+##### Running the scripts
+
+In the **Revenue** folder, you can start by running extract_ipeds_revenue.py and then missing.py. Then, run the summarize_revenue.py to get the college_total_revenue_summary.csv file. 
+
+Population demographics analysis for 2012 vs 2022 can be run using the pop_demogs.py file.
+
+In the **analysis** folder, there is only one R script called "LMM_correlations_analysis.R". This will run the linear mixed models to look for correlations between the variables included, and it will generate the resulting forest plots that are in the **analysis** folder.
 
 ## Sharing/access information
+
+Python version 3.13.2
+R version 2024.12.1+563 (2024.12.1+563)
+
+This project has an MIT license. Please read the license file. 
 
 IPEDS data is public domain and can be downloaded from their Data Center.
 
