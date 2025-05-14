@@ -1,4 +1,4 @@
-# Data for: Revenue, Region, and Racial demographics: A study of university publishing programs and presses over time
+# Data for: Revenue, Region, and Racial Demographics: A study of college publishing programs and presses over time
 Data, methods, scripts, and results from my 2025 SSP Early Career Fellowship project
 
 Quantitative study: Molly A. Hirst, PhD
