@@ -1,0 +1,202 @@
+college_name,UNITID,INSTNM,CONTROL,SECTOR,CITY,STABBR,match_type
+Howard University,131520,Howard University,2,2,Washington,DC,exact
+Stanford University,243744,Stanford University,2,2,Stanford,CA,exact
+Morehouse College,140553,Morehouse College,2,2,Atlanta,GA,exact
+Swarthmore College,216287,Swarthmore College,2,2,Swarthmore,PA,exact
+Massachusetts Institute of Technology,166683,Massachusetts Institute of Technology,2,2,Cambridge,MA,exact
+Spelman College,141060,Spelman College,2,2,Atlanta,GA,exact
+Amherst College,164465,Amherst College,2,2,Amherst,MA,exact
+Navajo Technical University,187596,Navajo Technical University,1,1,Crownpoint,NM,exact
+University of Southern California,123961,University of Southern California,2,2,Los Angeles,CA,exact
+Fisk University,220181,Fisk University,2,2,Nashville,TN,exact
+Harvard University,166027,Harvard University,2,2,Cambridge,MA,exact
+Haskell Indian Nations University,155140,Haskell Indian Nations University,1,1,Lawrence,KS,exact
+University of Georgia,139959,University of Georgia,1,1,Athens,GA,exact
+University of Central Florida,132903,University of Central Florida,1,1,Orlando,FL,exact
+Xavier University of Louisiana,160904,Xavier University of Louisiana,2,2,New Orleans,LA,exact
+Yale University,130794,Yale University,2,2,New Haven,CT,exact
+Colgate University,190099,Colgate University,2,2,Hamilton,NY,exact
+San Diego State University,122409,San Diego State University,1,1,San Diego,CA,exact
+Cornell University,190415,Cornell University,2,2,Ithaca,NY,exact
+University of Arizona,104179,University of Arizona,1,1,Tucson,AZ,exact
+Tuskegee University,102377,Tuskegee University,2,2,Tuskegee,AL,exact
+University of North Carolina at Chapel Hill,199120,University of North Carolina at Chapel Hill,1,1,Chapel Hill,NC,exact
+Baylor University,223232,Baylor University,2,2,Waco,TX,exact
+Sisseton Wahpeton College,219408,Sisseton Wahpeton College,1,1,Sisseton,SD,exact
+Davidson College,198385,Davidson College,2,2,Davidson,NC,exact
+University of Florida,134130,University of Florida,1,1,Gainesville,FL,exact
+Hampton University,232265,Hampton University,2,2,Hampton,VA,exact
+University of Vermont,231174,University of Vermont,1,1,Burlington,VT,exact
+Reed College,209922,Reed College,2,2,Portland,OR,exact
+Princeton University,186131,Princeton University,2,2,Princeton,NJ,exact
+Claremont McKenna College,112260,Claremont McKenna College,2,2,Claremont,CA,exact
+Oglala Lakota College,219277,Oglala Lakota College,1,1,Kyle,SD,exact
+University of Kansas,155317,University of Kansas,1,1,Lawrence,KS,exact
+Jackson State University,175856,Jackson State University,1,1,Jackson,MS,exact
+Middlebury College,230959,Middlebury College,2,2,Middlebury,VT,exact
+University of Mississippi,176017,University of Mississippi,1,1,University,MS,exact
+Northwestern University,147767,Northwestern University,2,2,Evanston,IL,exact
+Sitting Bull College,200466,Sitting Bull College,1,1,Fort Yates,ND,exact
+Brown University,217156,Brown University,2,2,Providence,RI,exact
+College of Menominee Nation,413617,College of Menominee Nation,2,2,Keshena,WI,exact
+Rollins College,136950,Rollins College,2,2,Winter Park,FL,exact
+Rice University,227757,Rice University,2,2,Houston,TX,exact
+University of North Texas,227216,University of North Texas,1,1,Denton,TX,exact
+University of Utah,230764,University of Utah,1,1,Salt Lake City,UT,exact
+Florida International University,133951,Florida International University,1,1,Miami,FL,exact
+Loyola Marymount University,117946,Loyola Marymount University,2,2,Los Angeles,CA,exact
+Fort Lewis College,127185,Fort Lewis College,1,1,Durango,CO,exact
+Leech Lake Tribal College,413626,Leech Lake Tribal College,1,4,Cass Lake,MN,exact
+Rutgers University-New Brunswick,186380,Rutgers University-New Brunswick,1,1,New Brunswick,NJ,exact
+Drexel University,212054,Drexel University,2,2,Philadelphia,PA,exact
+University of Connecticut,129020,University of Connecticut,1,1,Storrs,CT,exact
+Grinnell College,153384,Grinnell College,2,2,Grinnell,IA,exact
+University of Denver,127060,University of Denver,2,2,Denver,CO,exact
+New York University,193900,New York University,2,2,New York,NY,exact
+Bowdoin College,161004,Bowdoin College,2,2,Brunswick,ME,exact
+University of Louisville,157289,University of Louisville,1,1,Louisville,KY,exact
+Bard College,189088,Bard College,2,2,Annandale-On-Hudson,NY,exact
+Simmons University,167783,Simmons University,2,2,Boston,MA,exact
+University of Kentucky,157085,University of Kentucky,1,1,Lexington,KY,exact
+DePauw University,150400,DePauw University,2,2,Greencastle,IN,exact
+Sweet Briar College,233718,Sweet Briar College,2,2,Sweet Briar,VA,exact
+Illinois State University,145813,Illinois State University,1,1,Normal,IL,exact
+University of Wisconsin-Madison,240444,University of Wisconsin-Madison,1,1,Madison,WI,exact
+Wellesley College,168218,Wellesley College,2,2,Wellesley,MA,exact
+Vanderbilt University,221999,Vanderbilt University,2,2,Nashville,TN,exact
+Baylor College of Medicine,223223,Baylor College of Medicine,2,2,Houston,TX,exact
+South Dakota State University,219356,South Dakota State University,1,1,Brookings,SD,exact
+American University,131159,American University,2,2,Washington,DC,exact
+Johns Hopkins University,162928,Johns Hopkins University,2,2,Baltimore,MD,exact
+University of Nebraska-Lincoln,181464,University of Nebraska-Lincoln,1,1,Lincoln,NE,exact
+University of North Dakota,200280,University of North Dakota,1,1,Grand Forks,ND,exact
+University of Maine,161253,University of Maine,1,1,Orono,ME,exact
+College of Saint Benedict,174747,College of Saint Benedict,2,2,Saint Joseph,MN,exact
+University of Oregon,209551,University of Oregon,1,1,Eugene,OR,exact
+Pepperdine University,121150,Pepperdine University,2,2,Malibu,CA,exact
+University of Idaho,142285,University of Idaho,1,1,Moscow,ID,exact
+Dartmouth College,182670,Dartmouth College,2,2,Hanover,NH,exact
+University of Colorado Boulder,126614,University of Colorado Boulder,1,1,Boulder,CO,exact
+Clemson University,217882,Clemson University,1,1,Clemson,SC,exact
+Oregon State University,209542,Oregon State University,1,1,Corvallis,OR,exact
+Wake Forest University,199847,Wake Forest University,2,2,Winston-Salem,NC,exact
+Northeastern University,167358,Northeastern University,2,2,Boston,MA,exact
+Duke University,198419,Duke University,2,2,Durham,NC,exact
+Georgetown University,131496,Georgetown University,2,2,Washington,DC,exact
+Michigan State University,171100,Michigan State University,1,1,East Lansing,MI,exact
+Tufts University,168148,Tufts University,2,2,Medford,MA,exact
+Brandeis University,165015,Brandeis University,2,2,Waltham,MA,exact
+Williams College,168342,Williams College,2,2,Williamstown,MA,exact
+Linfield University,209065,Linfield University,2,2,McMinnville,OR,exact
+University of Delaware,130943,University of Delaware,1,1,Newark,DE,exact
+West Virginia University,238032,West Virginia University,1,1,Morgantown,WV,exact
+California Baptist University,110361,California Baptist University,2,2,Riverside,CA,exact
+University of South Florida,137351,University of South Florida,1,1,Tampa,FL,exact
+Seattle University,236595,Seattle University,2,2,Seattle,WA,exact
+Stetson University,137546,Stetson University,2,2,DeLand,FL,exact
+University of Wyoming,240727,University of Wyoming,1,1,Laramie,WY,exact
+Seton Hall University,186584,Seton Hall University,2,2,South Orange,NJ,exact
+Drake University,153269,Drake University,2,2,Des Moines,IA,exact
+Hofstra University,191649,Hofstra University,2,2,Hempstead,NY,exact
+Loyola University Chicago,146719,Loyola University Chicago,2,2,Chicago,IL,exact
+Saint Louis University,179159,Saint Louis University,2,2,Saint Louis,MO,exact
+University of Notre Dame,152080,University of Notre Dame,2,2,Notre Dame,IN,exact
+University of Houston,225511,University of Houston,1,1,Houston,TX,exact
+Marquette University,239105,Marquette University,2,2,Milwaukee,WI,exact
+St. John's College,163976,St. John's College,2,2,Annapolis,MD,exact
+St. John's College,245652,St. John's College,2,2,Santa Fe,NM,exact
+Creighton University,181002,Creighton University,2,2,Omaha,NE,exact
+Goucher College,162654,Goucher College,2,2,Baltimore,MD,exact
+Agnes Scott College,138600,Agnes Scott College,2,2,Decatur,GA,exact
+Furman University,218070,Furman University,2,2,Greenville,SC,exact
+Whitman College,237057,Whitman College,2,2,Walla Walla,WA,exact
+University of Alaska Fairbanks,102614,University of Alaska Fairbanks,1,1,Fairbanks,AK,exact
+University of San Diego,122436,University of San Diego,2,2,San Diego,CA,exact
+University of Indianapolis,151263,University of Indianapolis,2,2,Indianapolis,IN,exact
+University of North Carolina Wilmington,199218,University of North Carolina Wilmington,1,1,Wilmington,NC,exact
+University of Missouri-Kansas City,178402,University of Missouri-Kansas City,1,1,Kansas City,MO,exact
+University of Hawaii at Hilo,141565,University of Hawaii at Hilo,1,1,Hilo,HI,exact
+University of North Alabama,101879,University of North Alabama,1,1,Florence,AL,exact
+New College of Florida,262129,New College of Florida,1,1,Sarasota,FL,exact
+Mississippi State University,176080,Mississippi State University,1,1,Mississippi State,MS,exact
+University of West Georgia,141334,University of West Georgia,1,1,Carrollton,GA,exact
+University of Central Missouri,176965,University of Central Missouri,1,1,Warrensburg,MO,exact
+Bowie State University,162007,Bowie State University,1,1,Bowie,MD,exact
+Eastern Michigan University,169798,Eastern Michigan University,1,1,Ypsilanti,MI,exact
+Sam Houston State University,227881,Sam Houston State University,1,1,Huntsville,TX,exact
+University of Northern Iowa,154095,University of Northern Iowa,1,1,Cedar Falls,IA,exact
+Florida Gulf Coast University,433660,Florida Gulf Coast University,1,1,Fort Myers,FL,exact
+Portland State University,209807,Portland State University,1,1,Portland,OR,exact
+East Tennessee State University,220075,East Tennessee State University,1,1,Johnson City,TN,exact
+Indiana State University,151324,Indiana State University,1,1,Terre Haute,IN,exact
+Montana Technological University,180416,Montana Technological University,1,1,Butte,MT,exact
+Western Carolina University,200004,Western Carolina University,1,1,Cullowhee,NC,exact
+Fayetteville State University,198543,Fayetteville State University,1,1,Fayetteville,NC,exact
+University of Wisconsin-Eau Claire,240268,University of Wisconsin-Eau Claire,1,1,Eau Claire,WI,exact
+University of North Georgia,482680,University of North Georgia,1,1,Dahlonega,GA,exact
+University of Michigan-Dearborn,171137,University of Michigan-Dearborn,1,1,Dearborn,MI,exact
+Winston-Salem State University,199999,Winston-Salem State University,1,1,Winston-Salem,NC,exact
+University of Houston-Clear Lake,225414,University of Houston-Clear Lake,1,1,Houston,TX,exact
+Tarleton State University,228529,Tarleton State University,1,1,Stephenville,TX,exact
+Trinity University,229267,Trinity University,2,2,San Antonio,TX,exact
+Southeastern Louisiana University,160612,Southeastern Louisiana University,1,1,Hammond,LA,exact
+The College of New Jersey,187134,The College of New Jersey,1,1,Ewing,NJ,exact
+Appalachian State University,197869,Appalachian State University,1,1,Boone,NC,exact
+Grand Valley State University,170082,Grand Valley State University,1,1,Allendale,MI,exact
+Texas Southern University,229063,Texas Southern University,1,1,Houston,TX,exact
+Northern Arizona University,105330,Northern Arizona University,1,1,Flagstaff,AZ,exact
+University of Nebraska at Kearney,181215,University of Nebraska at Kearney,1,1,Kearney,NE,exact
+University of Michigan,171146,University of Michigan-Flint,1,1,Flint,MI,fuzzy
+"University of California, Berkeley",110635,University of California-Berkeley,1,1,Berkeley,CA,fuzzy
+New Mexico State University,188021,New Mexico State University-Grants,1,4,Grants,NM,fuzzy
+Florida A&M University,134097,Florida State University,1,1,Tallahassee,FL,fuzzy
+University of Texas Rio Grande Valley,227368,The University of Texas Rio Grande Valley,1,1,Edinburg,TX,fuzzy
+University of Washington,232681,University of Mary Washington,1,1,Fredericksburg,VA,fuzzy
+Institute of American Indian and Alaska Native Culture and Arts Development,187745,Institute of American Indian and Alaska Native Culture and Arts Development,1,1,Santa Fe,NM,manual
+Texas A&M International University,226152,Texas A & M International University,1,1,Laredo,TX,fuzzy
+"University of California, Merced",445188,University of California-Merced,1,1,Merced,CA,fuzzy
+University of Illinois at Urbana-Champaign,145637,University of Illinois Urbana-Champaign,1,1,Champaign,IL,fuzzy
+North Carolina A&T State University,199102,North Carolina A & T State University,1,1,Greensboro,NC,fuzzy
+University of New Mexico-Main Campus,187985,University of New Mexico-Main Campus,1,1,Albuquerque,NM,manual
+Purdue University,198419,Duke University,2,2,Durham,NC,fuzzy
+"University of Maryland, College Park",163286,University of Maryland-College Park,1,1,College Park,MD,fuzzy
+Georgia Institute of Technology,133881,Florida Institute of Technology,2,2,Melbourne,FL,fuzzy
+Colorado State University,128106,Colorado State University Pueblo,1,1,Pueblo,CO,fuzzy
+University of Oklahoma-Norman Campus,207500,University of Oklahoma-Norman Campus,1,1,Norman,OK,manual
+University of Virginia-Main Campus,234076,University of Virginia-Main Campus,1,1,Charlottesville,VA,manual
+The University of Tennessee-Knoxville,221759,The University of Tennessee-Knoxville,1,1,Knoxville,TN,manual
+"University of California, Davis",110644,University of California-Davis,1,1,Davis,CA,fuzzy
+University of Missouri-Columbia,178396,University of Missouri-Columbia,1,1,Columbia,MO,manual
+Texas A&M University,228459,Texas State University,1,1,San Marcos,TX,fuzzy
+California Polytechnic State University-San Luis Obispo,110422,California Polytechnic State University-San Luis Obispo,1,1,San Luis Obispo,CA,manual
+Columbia University in the City of New York,190150,Columbia University in the City of New York,2,2,New York,NY,manual
+"California State University, Northridge",110608,California State University-Northridge,1,1,Northridge,CA,fuzzy
+Ohio State University,153603,Iowa State University,1,1,Ames,IA,fuzzy
+University of Texas at Austin,228778,The University of Texas at Austin,1,1,Austin,TX,fuzzy
+University of Alabama,100751,The University of Alabama,1,1,Tuscaloosa,AL,fuzzy
+Arizona State University,175272,Winona State University,1,1,Winona,MN,fuzzy
+University of Pittsburgh-Pittsburgh Campus,215293,University of Pittsburgh-Pittsburgh Campus,1,1,Pittsburgh,PA,manual
+"University of California, Irvine",110653,University of California-Irvine,1,1,Irvine,CA,fuzzy
+University of Montana,180489,The University of Montana,1,1,Missoula,MT,fuzzy
+"University of Nevada, Reno",182290,University of Nevada-Reno,1,1,Reno,NV,fuzzy
+Washington University in St. Louis,179867,Washington University in St Louis,2,2,Saint Louis,MO,fuzzy
+Catholic University of America,131283,The Catholic University of America,2,2,Washington,DC,fuzzy
+"University of California, Santa Barbara",110705,University of California-Santa Barbara,1,1,Santa Barbara,CA,fuzzy
+University of Tampa,137847,The University of Tampa,2,2,Tampa,FL,fuzzy
+University of Texas at El Paso,228796,The University of Texas at El Paso,1,1,El Paso,TX,fuzzy
+University of Massachusetts Amherst,166629,University of Massachusetts-Amherst,1,1,Amherst,MA,fuzzy
+University of West Florida,138354,The University of West Florida,1,1,Pensacola,FL,fuzzy
+"University of California, Riverside",110671,University of California-Riverside,1,1,Riverside,CA,fuzzy
+University of Massachusetts Lowell,166513,University of Massachusetts-Lowell,1,1,Lowell,MA,fuzzy
+University of North Carolina Asheville,199111,University of North Carolina at Asheville,1,1,Asheville,NC,fuzzy
+University of Texas Health Science Center at Houston,229300,The University of Texas Health Science Center at Houston,1,1,Houston,TX,fuzzy
+University of Texas Medical Branch at Galveston,228653,The University of Texas Medical Branch at Galveston,1,1,Galveston,TX,fuzzy
+University of Texas MD Anderson Cancer Center,416801,The University of Texas MD Anderson Cancer Center,1,1,Houston,TX,fuzzy
+"California State University, Chico",110538,California State University-Chico,1,1,Chico,CA,fuzzy
+University of Massachusetts Dartmouth,167987,University of Massachusetts-Dartmouth,1,1,North Dartmouth,MA,fuzzy
+"California State University, San Marcos",366711,California State University-San Marcos,1,1,San Marcos,CA,fuzzy
+Texas Woman’s University,229179,Texas Woman's University,1,1,Denton,TX,fuzzy
+"California State Polytechnic University, Pomona",110529,California State Polytechnic University-Pomona,1,1,Pomona,CA,fuzzy
+University of Texas Permian Basin,229018,The University of Texas Permian Basin,1,1,Odessa,TX,fuzzy
+"Minnesota State University, Mankato",173920,Minnesota State University-Mankato,1,1,Mankato,MN,fuzzy
+North Dakota State University,219356,South Dakota State University,1,1,Brookings,SD,fuzzy
