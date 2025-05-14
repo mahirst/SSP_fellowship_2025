@@ -1,0 +1,203 @@
+college_name,UNITID,INSTNM,CONTROL,SECTOR,CITY,STABBR,match_type
+Howard University,131520.0,Howard University,2.0,2.0,Washington,DC,exact
+Stanford University,243744.0,Stanford University,2.0,2.0,Stanford,CA,exact
+Morehouse College,140553.0,Morehouse College,2.0,2.0,Atlanta,GA,exact
+Swarthmore College,216287.0,Swarthmore College,2.0,2.0,Swarthmore,PA,exact
+Massachusetts Institute of Technology,166683.0,Massachusetts Institute of Technology,2.0,2.0,Cambridge,MA,exact
+Spelman College,141060.0,Spelman College,2.0,2.0,Atlanta,GA,exact
+Amherst College,164465.0,Amherst College,2.0,2.0,Amherst,MA,exact
+Navajo Technical University,187596.0,Navajo Technical University,1.0,1.0,Crownpoint,NM,exact
+University of Southern California,123961.0,University of Southern California,2.0,2.0,Los Angeles,CA,exact
+Fisk University,220181.0,Fisk University,2.0,2.0,Nashville,TN,exact
+Harvard University,166027.0,Harvard University,2.0,2.0,Cambridge,MA,exact
+Haskell Indian Nations University,155140.0,Haskell Indian Nations University,1.0,1.0,Lawrence,KS,exact
+University of Georgia,139959.0,University of Georgia,1.0,1.0,Athens,GA,exact
+University of Central Florida,132903.0,University of Central Florida,1.0,1.0,Orlando,FL,exact
+Xavier University of Louisiana,160904.0,Xavier University of Louisiana,2.0,2.0,New Orleans,LA,exact
+Yale University,130794.0,Yale University,2.0,2.0,New Haven,CT,exact
+Colgate University,190099.0,Colgate University,2.0,2.0,Hamilton,NY,exact
+San Diego State University,122409.0,San Diego State University,1.0,1.0,San Diego,CA,exact
+Cornell University,190415.0,Cornell University,2.0,2.0,Ithaca,NY,exact
+University of Arizona,104179.0,University of Arizona,1.0,1.0,Tucson,AZ,exact
+Tuskegee University,102377.0,Tuskegee University,2.0,2.0,Tuskegee,AL,exact
+University of North Carolina at Chapel Hill,199120.0,University of North Carolina at Chapel Hill,1.0,1.0,Chapel Hill,NC,exact
+Baylor University,223232.0,Baylor University,2.0,2.0,Waco,TX,exact
+Sisseton Wahpeton College,219408.0,Sisseton Wahpeton College,1.0,1.0,Sisseton,SD,exact
+Davidson College,198385.0,Davidson College,2.0,2.0,Davidson,NC,exact
+University of Florida,134130.0,University of Florida,1.0,1.0,Gainesville,FL,exact
+Hampton University,232265.0,Hampton University,2.0,2.0,Hampton,VA,exact
+University of Vermont,231174.0,University of Vermont,1.0,1.0,Burlington,VT,exact
+Reed College,209922.0,Reed College,2.0,2.0,Portland,OR,exact
+Princeton University,186131.0,Princeton University,2.0,2.0,Princeton,NJ,exact
+Claremont McKenna College,112260.0,Claremont McKenna College,2.0,2.0,Claremont,CA,exact
+Oglala Lakota College,219277.0,Oglala Lakota College,1.0,1.0,Kyle,SD,exact
+University of Kansas,155317.0,University of Kansas,1.0,1.0,Lawrence,KS,exact
+Jackson State University,175856.0,Jackson State University,1.0,1.0,Jackson,MS,exact
+Middlebury College,230959.0,Middlebury College,2.0,2.0,Middlebury,VT,exact
+University of Mississippi,176017.0,University of Mississippi,1.0,1.0,University,MS,exact
+Northwestern University,147767.0,Northwestern University,2.0,2.0,Evanston,IL,exact
+Sitting Bull College,200466.0,Sitting Bull College,1.0,1.0,Fort Yates,ND,exact
+Brown University,217156.0,Brown University,2.0,2.0,Providence,RI,exact
+College of Menominee Nation,413617.0,College of Menominee Nation,2.0,2.0,Keshena,WI,exact
+Rollins College,136950.0,Rollins College,2.0,2.0,Winter Park,FL,exact
+Rice University,227757.0,Rice University,2.0,2.0,Houston,TX,exact
+University of North Texas,227216.0,University of North Texas,1.0,1.0,Denton,TX,exact
+University of Utah,230764.0,University of Utah,1.0,1.0,Salt Lake City,UT,exact
+Florida International University,133951.0,Florida International University,1.0,1.0,Miami,FL,exact
+Loyola Marymount University,117946.0,Loyola Marymount University,2.0,2.0,Los Angeles,CA,exact
+Fort Lewis College,127185.0,Fort Lewis College,1.0,1.0,Durango,CO,exact
+Leech Lake Tribal College,413626.0,Leech Lake Tribal College,1.0,4.0,Cass Lake,MN,exact
+Rutgers University-New Brunswick,186380.0,Rutgers University-New Brunswick,1.0,1.0,New Brunswick,NJ,exact
+Drexel University,212054.0,Drexel University,2.0,2.0,Philadelphia,PA,exact
+University of Connecticut,129020.0,University of Connecticut,1.0,1.0,Storrs,CT,exact
+Grinnell College,153384.0,Grinnell College,2.0,2.0,Grinnell,IA,exact
+University of Denver,127060.0,University of Denver,2.0,2.0,Denver,CO,exact
+New York University,193900.0,New York University,2.0,2.0,New York,NY,exact
+Bowdoin College,161004.0,Bowdoin College,2.0,2.0,Brunswick,ME,exact
+University of Louisville,157289.0,University of Louisville,1.0,1.0,Louisville,KY,exact
+Bard College,189088.0,Bard College,2.0,2.0,Annandale-On-Hudson,NY,exact
+Simmons University,167783.0,Simmons University,2.0,2.0,Boston,MA,exact
+University of Kentucky,157085.0,University of Kentucky,1.0,1.0,Lexington,KY,exact
+DePauw University,150400.0,DePauw University,2.0,2.0,Greencastle,IN,exact
+Sweet Briar College,233718.0,Sweet Briar College,2.0,2.0,Sweet Briar,VA,exact
+Illinois State University,145813.0,Illinois State University,1.0,1.0,Normal,IL,exact
+University of Wisconsin-Madison,240444.0,University of Wisconsin-Madison,1.0,1.0,Madison,WI,exact
+Wellesley College,168218.0,Wellesley College,2.0,2.0,Wellesley,MA,exact
+Vanderbilt University,221999.0,Vanderbilt University,2.0,2.0,Nashville,TN,exact
+Baylor College of Medicine,223223.0,Baylor College of Medicine,2.0,2.0,Houston,TX,exact
+South Dakota State University,219356.0,South Dakota State University,1.0,1.0,Brookings,SD,exact
+American University,131159.0,American University,2.0,2.0,Washington,DC,exact
+Johns Hopkins University,162928.0,Johns Hopkins University,2.0,2.0,Baltimore,MD,exact
+University of Nebraska-Lincoln,181464.0,University of Nebraska-Lincoln,1.0,1.0,Lincoln,NE,exact
+University of North Dakota,200280.0,University of North Dakota,1.0,1.0,Grand Forks,ND,exact
+University of Maine,161253.0,University of Maine,1.0,1.0,Orono,ME,exact
+College of Saint Benedict,174747.0,College of Saint Benedict,2.0,2.0,Saint Joseph,MN,exact
+University of Oregon,209551.0,University of Oregon,1.0,1.0,Eugene,OR,exact
+Pepperdine University,121150.0,Pepperdine University,2.0,2.0,Malibu,CA,exact
+University of Idaho,142285.0,University of Idaho,1.0,1.0,Moscow,ID,exact
+Dartmouth College,182670.0,Dartmouth College,2.0,2.0,Hanover,NH,exact
+University of Colorado Boulder,126614.0,University of Colorado Boulder,1.0,1.0,Boulder,CO,exact
+Clemson University,217882.0,Clemson University,1.0,1.0,Clemson,SC,exact
+Oregon State University,209542.0,Oregon State University,1.0,1.0,Corvallis,OR,exact
+Wake Forest University,199847.0,Wake Forest University,2.0,2.0,Winston-Salem,NC,exact
+Northeastern University,167358.0,Northeastern University,2.0,2.0,Boston,MA,exact
+Duke University,198419.0,Duke University,2.0,2.0,Durham,NC,exact
+Georgetown University,131496.0,Georgetown University,2.0,2.0,Washington,DC,exact
+Michigan State University,171100.0,Michigan State University,1.0,1.0,East Lansing,MI,exact
+Tufts University,168148.0,Tufts University,2.0,2.0,Medford,MA,exact
+Brandeis University,165015.0,Brandeis University,2.0,2.0,Waltham,MA,exact
+Williams College,168342.0,Williams College,2.0,2.0,Williamstown,MA,exact
+Linfield University,209065.0,Linfield University,2.0,2.0,McMinnville,OR,exact
+University of Delaware,130943.0,University of Delaware,1.0,1.0,Newark,DE,exact
+West Virginia University,238032.0,West Virginia University,1.0,1.0,Morgantown,WV,exact
+California Baptist University,110361.0,California Baptist University,2.0,2.0,Riverside,CA,exact
+University of South Florida,137351.0,University of South Florida,1.0,1.0,Tampa,FL,exact
+Seattle University,236595.0,Seattle University,2.0,2.0,Seattle,WA,exact
+Stetson University,137546.0,Stetson University,2.0,2.0,DeLand,FL,exact
+University of Wyoming,240727.0,University of Wyoming,1.0,1.0,Laramie,WY,exact
+Seton Hall University,186584.0,Seton Hall University,2.0,2.0,South Orange,NJ,exact
+Drake University,153269.0,Drake University,2.0,2.0,Des Moines,IA,exact
+Hofstra University,191649.0,Hofstra University,2.0,2.0,Hempstead,NY,exact
+Loyola University Chicago,146719.0,Loyola University Chicago,2.0,2.0,Chicago,IL,exact
+Saint Louis University,179159.0,Saint Louis University,2.0,2.0,Saint Louis,MO,exact
+University of Notre Dame,152080.0,University of Notre Dame,2.0,2.0,Notre Dame,IN,exact
+University of Houston,225511.0,University of Houston,1.0,1.0,Houston,TX,exact
+Marquette University,239105.0,Marquette University,2.0,2.0,Milwaukee,WI,exact
+St. John's College,163976.0,St. John's College,2.0,2.0,Annapolis,MD,exact
+St. John's College,245652.0,St. John's College,2.0,2.0,Santa Fe,NM,exact
+Creighton University,181002.0,Creighton University,2.0,2.0,Omaha,NE,exact
+Goucher College,162654.0,Goucher College,2.0,2.0,Baltimore,MD,exact
+Agnes Scott College,138600.0,Agnes Scott College,2.0,2.0,Decatur,GA,exact
+Furman University,218070.0,Furman University,2.0,2.0,Greenville,SC,exact
+Whitman College,237057.0,Whitman College,2.0,2.0,Walla Walla,WA,exact
+University of Alaska Fairbanks,102614.0,University of Alaska Fairbanks,1.0,1.0,Fairbanks,AK,exact
+University of San Diego,122436.0,University of San Diego,2.0,2.0,San Diego,CA,exact
+University of Indianapolis,151263.0,University of Indianapolis,2.0,2.0,Indianapolis,IN,exact
+University of North Carolina Wilmington,199218.0,University of North Carolina Wilmington,1.0,1.0,Wilmington,NC,exact
+University of Missouri-Kansas City,178402.0,University of Missouri-Kansas City,1.0,1.0,Kansas City,MO,exact
+University of Hawaii at Hilo,141565.0,University of Hawaii at Hilo,1.0,1.0,Hilo,HI,exact
+University of North Alabama,101879.0,University of North Alabama,1.0,1.0,Florence,AL,exact
+New College of Florida,262129.0,New College of Florida,1.0,1.0,Sarasota,FL,exact
+Mississippi State University,176080.0,Mississippi State University,1.0,1.0,Mississippi State,MS,exact
+University of West Georgia,141334.0,University of West Georgia,1.0,1.0,Carrollton,GA,exact
+University of Central Missouri,176965.0,University of Central Missouri,1.0,1.0,Warrensburg,MO,exact
+Bowie State University,162007.0,Bowie State University,1.0,1.0,Bowie,MD,exact
+Eastern Michigan University,169798.0,Eastern Michigan University,1.0,1.0,Ypsilanti,MI,exact
+Sam Houston State University,227881.0,Sam Houston State University,1.0,1.0,Huntsville,TX,exact
+University of Northern Iowa,154095.0,University of Northern Iowa,1.0,1.0,Cedar Falls,IA,exact
+Florida Gulf Coast University,433660.0,Florida Gulf Coast University,1.0,1.0,Fort Myers,FL,exact
+Portland State University,209807.0,Portland State University,1.0,1.0,Portland,OR,exact
+East Tennessee State University,220075.0,East Tennessee State University,1.0,1.0,Johnson City,TN,exact
+Indiana State University,151324.0,Indiana State University,1.0,1.0,Terre Haute,IN,exact
+Montana Technological University,180416.0,Montana Technological University,1.0,1.0,Butte,MT,exact
+Western Carolina University,200004.0,Western Carolina University,1.0,1.0,Cullowhee,NC,exact
+Fayetteville State University,198543.0,Fayetteville State University,1.0,1.0,Fayetteville,NC,exact
+University of Wisconsin-Eau Claire,240268.0,University of Wisconsin-Eau Claire,1.0,1.0,Eau Claire,WI,exact
+University of North Georgia,482680.0,University of North Georgia,1.0,1.0,Dahlonega,GA,exact
+University of Michigan-Dearborn,171137.0,University of Michigan-Dearborn,1.0,1.0,Dearborn,MI,exact
+Winston-Salem State University,199999.0,Winston-Salem State University,1.0,1.0,Winston-Salem,NC,exact
+University of Houston-Clear Lake,225414.0,University of Houston-Clear Lake,1.0,1.0,Houston,TX,exact
+Tarleton State University,228529.0,Tarleton State University,1.0,1.0,Stephenville,TX,exact
+Trinity University,229267.0,Trinity University,2.0,2.0,San Antonio,TX,exact
+Southeastern Louisiana University,160612.0,Southeastern Louisiana University,1.0,1.0,Hammond,LA,exact
+The College of New Jersey,187134.0,The College of New Jersey,1.0,1.0,Ewing,NJ,exact
+Appalachian State University,197869.0,Appalachian State University,1.0,1.0,Boone,NC,exact
+Grand Valley State University,170082.0,Grand Valley State University,1.0,1.0,Allendale,MI,exact
+Texas Southern University,229063.0,Texas Southern University,1.0,1.0,Houston,TX,exact
+Northern Arizona University,105330.0,Northern Arizona University,1.0,1.0,Flagstaff,AZ,exact
+University of Nebraska at Kearney,181215.0,University of Nebraska at Kearney,1.0,1.0,Kearney,NE,exact
+Institution_Name,,,,,,,fuzzy
+University of Michigan,171146.0,University of Michigan-Flint,1.0,1.0,Flint,MI,fuzzy
+"University of California, Berkeley",110635.0,University of California-Berkeley,1.0,1.0,Berkeley,CA,fuzzy
+New Mexico State University,188021.0,New Mexico State University-Grants,1.0,4.0,Grants,NM,fuzzy
+Florida A&M University,134097.0,Florida State University,1.0,1.0,Tallahassee,FL,fuzzy
+University of Texas Rio Grande Valley,227368.0,The University of Texas Rio Grande Valley,1.0,1.0,Edinburg,TX,fuzzy
+University of Washington,232681.0,University of Mary Washington,1.0,1.0,Fredericksburg,VA,fuzzy
+Institute of American Indian Arts,,,,,,,fuzzy
+Texas A&M International University,226152.0,Texas A & M International University,1.0,1.0,Laredo,TX,fuzzy
+"University of California, Merced",445188.0,University of California-Merced,1.0,1.0,Merced,CA,fuzzy
+University of Illinois at Urbana-Champaign,145637.0,University of Illinois Urbana-Champaign,1.0,1.0,Champaign,IL,fuzzy
+North Carolina A&T State University,199102.0,North Carolina A & T State University,1.0,1.0,Greensboro,NC,fuzzy
+University of New Mexico,,,,,,,fuzzy
+Purdue University,198419.0,Duke University,2.0,2.0,Durham,NC,fuzzy
+"University of Maryland, College Park",163286.0,University of Maryland-College Park,1.0,1.0,College Park,MD,fuzzy
+Georgia Institute of Technology,133881.0,Florida Institute of Technology,2.0,2.0,Melbourne,FL,fuzzy
+Colorado State University,128106.0,Colorado State University Pueblo,1.0,1.0,Pueblo,CO,fuzzy
+University of Oklahoma,,,,,,,fuzzy
+University of Virginia,,,,,,,fuzzy
+University of Tennessee,,,,,,,fuzzy
+"University of California, Davis",110644.0,University of California-Davis,1.0,1.0,Davis,CA,fuzzy
+University of Missouri,,,,,,,fuzzy
+Texas A&M University,228459.0,Texas State University,1.0,1.0,San Marcos,TX,fuzzy
+California Polytechnic State University,,,,,,,fuzzy
+Columbia University,,,,,,,fuzzy
+"California State University, Northridge",110608.0,California State University-Northridge,1.0,1.0,Northridge,CA,fuzzy
+Ohio State University,153603.0,Iowa State University,1.0,1.0,Ames,IA,fuzzy
+University of Texas at Austin,228778.0,The University of Texas at Austin,1.0,1.0,Austin,TX,fuzzy
+University of Alabama,100751.0,The University of Alabama,1.0,1.0,Tuscaloosa,AL,fuzzy
+Arizona State University,175272.0,Winona State University,1.0,1.0,Winona,MN,fuzzy
+University of Pittsburgh,,,,,,,fuzzy
+"University of California, Irvine",110653.0,University of California-Irvine,1.0,1.0,Irvine,CA,fuzzy
+University of Montana,180489.0,The University of Montana,1.0,1.0,Missoula,MT,fuzzy
+"University of Nevada, Reno",182290.0,University of Nevada-Reno,1.0,1.0,Reno,NV,fuzzy
+Washington University in St. Louis,179867.0,Washington University in St Louis,2.0,2.0,Saint Louis,MO,fuzzy
+Catholic University of America,131283.0,The Catholic University of America,2.0,2.0,Washington,DC,fuzzy
+"University of California, Santa Barbara",110705.0,University of California-Santa Barbara,1.0,1.0,Santa Barbara,CA,fuzzy
+University of Tampa,137847.0,The University of Tampa,2.0,2.0,Tampa,FL,fuzzy
+University of Texas at El Paso,228796.0,The University of Texas at El Paso,1.0,1.0,El Paso,TX,fuzzy
+University of Massachusetts Amherst,166629.0,University of Massachusetts-Amherst,1.0,1.0,Amherst,MA,fuzzy
+University of West Florida,138354.0,The University of West Florida,1.0,1.0,Pensacola,FL,fuzzy
+"University of California, Riverside",110671.0,University of California-Riverside,1.0,1.0,Riverside,CA,fuzzy
+University of Massachusetts Lowell,166513.0,University of Massachusetts-Lowell,1.0,1.0,Lowell,MA,fuzzy
+University of North Carolina Asheville,199111.0,University of North Carolina at Asheville,1.0,1.0,Asheville,NC,fuzzy
+University of Texas Health Science Center at Houston,229300.0,The University of Texas Health Science Center at Houston,1.0,1.0,Houston,TX,fuzzy
+University of Texas Medical Branch at Galveston,228653.0,The University of Texas Medical Branch at Galveston,1.0,1.0,Galveston,TX,fuzzy
+University of Texas MD Anderson Cancer Center,416801.0,The University of Texas MD Anderson Cancer Center,1.0,1.0,Houston,TX,fuzzy
+"California State University, Chico",110538.0,California State University-Chico,1.0,1.0,Chico,CA,fuzzy
+University of Massachusetts Dartmouth,167987.0,University of Massachusetts-Dartmouth,1.0,1.0,North Dartmouth,MA,fuzzy
+"California State University, San Marcos",366711.0,California State University-San Marcos,1.0,1.0,San Marcos,CA,fuzzy
+Texas Woman’s University,229179.0,Texas Woman's University,1.0,1.0,Denton,TX,fuzzy
+"California State Polytechnic University, Pomona",110529.0,California State Polytechnic University-Pomona,1.0,1.0,Pomona,CA,fuzzy
+University of Texas Permian Basin,229018.0,The University of Texas Permian Basin,1.0,1.0,Odessa,TX,fuzzy
+"Minnesota State University, Mankato",173920.0,Minnesota State University-Mankato,1.0,1.0,Mankato,MN,fuzzy
+North Dakota State University,219356.0,South Dakota State University,1.0,1.0,Brookings,SD,fuzzy
